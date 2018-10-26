@@ -1,0 +1,2 @@
+# irst-Nepal-Winter-School-on-AI
+The Nepal School consists of series of lectures, lab sessions, and scientific paper reading/writing sessions given by invited world-class experts. The experts include a number of alumni who graduated from the local engineering schools, and have good knowledge of the teaching methodology there and the key gaps that need to be filled. The social events (a day hiking and dinner) will provide ample opportunities for the like-minded people to network and collaborate.
